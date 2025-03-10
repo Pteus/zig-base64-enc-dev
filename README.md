@@ -19,3 +19,4 @@ This project helps reinforce key Zig concepts such as:
 
 This project follows Introduction to Zig by Pedro Park. I do not claim original authorship of the project idea.
 This repository serves as a learning resource and is not an official part of the book.
+https://pedropark99.github.io/zig-book/Chapters/01-base64.html
